@@ -1,0 +1,15 @@
+git add .      ///   to adding a file into unstaging location  ////
+git commit -m "message of the commit"  ////   to adding a file in to staging location ////  
+git push -u origin branch name  //// pushing a file into central  ///  
+git remote add origin repositiory url ////  it is using to connecting with  local repo to central repository  ////          ----one time activity
+
+
+
+one time activity    
+
+configuration commands  
+
+
+git config -- global user.email "your githb email id"
+git config -- global user.name "github user name"
+git init //////  to creating a folder as a repository in local  /////
