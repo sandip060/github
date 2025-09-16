@@ -1,0 +1,6 @@
+public class method demo 1
+
+{  
+  public static main void (string [] args)
+    }
+}
